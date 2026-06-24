@@ -1,0 +1,6 @@
+{
+  "name": "FintoCheck-Base",
+  "description": "A basic, foundational utility application that allows users to securely organize, catalog, and back up financial documents (Payslips, Form 106, Bank Statements) directly to their personal Google Drive, with full application state import/export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
